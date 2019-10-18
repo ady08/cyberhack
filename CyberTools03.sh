@@ -25,6 +25,7 @@ echo  "Welcome Tools    : Nicoleus F Sitorus      " |lolcat
 echo  "Penyemangat  : Ijen M Sinaga             " |lolcat
 echo  "My Youtube  : Ady sitorus ady     " |lolcat
 echo  "My Facebook : Nicoleus F Sitorus        " |lolcat
+echo  "MY The Pleace : SAMOSIR " |lolcat
 echo "=======================================" |lolcat
 
 echo "<~DAFTAR ISI Lae~>" |lolcat
@@ -115,7 +116,7 @@ echo "============================" | lolcat
 
 echo ""
 echo "╭─Nicoleus" |lolcat
-read -p "╰─#" pil;
+read -p "╰─>" pil;
 
 if [ $pil = 1 ]
 then
